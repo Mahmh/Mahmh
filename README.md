@@ -34,8 +34,3 @@ Performance:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-
----
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahmh&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=Mahmh&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
