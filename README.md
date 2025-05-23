@@ -3,11 +3,14 @@ I'm a passionate **full-stack software engineer** who thrives at the intersectio
 
 I have an enormous passion for computer science and math, and I enjoy turning complex problems into elegant, efficient solutions.
 
+[![Follow](https://img.shields.io/github/followers/Mahmh?label=Follow&style=social)](https://github.com/Mahmh)
+[![Stars](https://img.shields.io/github/stars/Mahmh?label=Thanks%20for%20the%20stars&style=social)](https://github.com/Mahmh?tab=repositories)
+
 ## ⚡ What I Work On
-- 🔁 **AI-powered web applications** — users interact with my AI engines through a beautiful web UI
-- 🧠 **Machine Learning integration** — custom training, computer vision, NLP, model deployment
-- 🧰 **Full-stack tooling** — Python, TypeScript, Next.js, FastAPI, PostgreSQL, Docker
-- 📦 **Back-end architecture** — REST APIs, microservices, and database design
+- **AI-powered web applications** — users interact with my AI engines through a beautiful web UI
+- **Machine Learning integration** — custom training, computer vision, NLP, model deployment
+- **Full-stack tooling** — Python, TypeScript, Next.js, FastAPI, PostgreSQL, Docker
+- **Back-end architecture** — REST APIs, microservices, and database design
 
 ## 📈 My Philosophy
 > Software isn’t just about shipping code — it’s about **engineering clarity** into chaos.
